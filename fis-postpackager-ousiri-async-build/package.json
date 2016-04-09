@@ -1,0 +1,41 @@
+{
+  "name": "fis-postpackager-ousiri-async-build",
+  "version": "1.0.0",
+  "description": "spm build like plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async-build"
+  ],
+  "author": {
+    "name": "ousiri"
+  },
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "ousiri",
+      "email": "ousiri@qq.com"
+    }
+  ],
+  "_id": "fis-postpackager-ousiri-async-build@1.0.0",
+  "_shasum": "02aeb15c980aa2e57cdba826480d86c55c58796f",
+  "_from": "fis-postpackager-ousiri-async-build@*",
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "ousiri",
+    "email": "ousiri@qq.com"
+  },
+  "dist": {
+    "shasum": "02aeb15c980aa2e57cdba826480d86c55c58796f",
+    "size": 5462,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/fis-postpackager-ousiri-async-build/download/fis-postpackager-ousiri-async-build-1.0.0.tgz"
+  },
+  "directories": {},
+  "publish_time": 1435288536420,
+  "_cnpm_publish_time": 1435288536420,
+  "_resolved": "https://registry.npm.taobao.org/fis-postpackager-ousiri-async-build/download/fis-postpackager-ousiri-async-build-1.0.0.tgz"
+}

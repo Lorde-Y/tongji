@@ -1,0 +1,25 @@
+{
+	"author": "The bitch group",
+	"name": "Rabbitpre-tongji",
+	"version": "1.0.0",
+	"description": "Rabbitpre-tongji",
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.szzbmy.com/Rabbitpre/tongji"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"fis-parser-less": "*",
+		"fis-parser-imweb-tpl": "*",
+		"fis-parser-coffee-script": "*",
+		"fis-postprocessor-jswrapper": "*",
+		"fis-postprocessor-require-async": "*",
+		"fis-prepackager-csswrapper": "*",
+		"fis-postpackager-ousiri-async-build": "*",
+		"fis-postpackager-ousiri-add-content": "*"
+	},
+	"devDependencies": {
+		"coffee-script": "^1.9.1",
+		"run-sequence": "^1.0.2"
+	}
+}
